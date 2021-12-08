@@ -1,0 +1,26 @@
+{
+  "name": "hyper-smooth-theme",
+  "version": "1.0.1",
+  "main": "index.js",
+  "description": "Smooth theme for Hyper.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datsfilipe/hyper-smooth-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/datsfilipe/hyper-smooth-theme/issues"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper theme",
+    "hyper smooth",
+    "hyper.app",
+    "smooth-theme",
+    "dark theme",
+    "smooth",
+    "dark"
+  ],
+  "license": "BSD 3-Clause",
+  "author": "Filipe Lima <datsfilipe@gmail.com>"
+}

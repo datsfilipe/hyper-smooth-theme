@@ -4,7 +4,7 @@ Smooth Theme for Hyper
 
 <p align="center">
   <a href="https://github.com/datsfilipe/hyper-smooth-theme/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/datsfilipe/hyper-smooth-theme?color=%237159c1&logo=mit" alt="License">
+    <img src="https://img.shields.io/github/license/datsfilipe/hyper-smooth-theme?color=%237159c1&logo=bsd" alt="License">
   </a>
 </p>
 

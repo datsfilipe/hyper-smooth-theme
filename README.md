@@ -16,8 +16,8 @@ To install, simply modify your hyper.js config file putting `"hyper-smooth-theme
 
 #### **Screenshot**
 
-<p>
-  <img src="./assets/hyper-smooth-theme.png" alt="Home" width="800" />
+<p align="center">
+  <img src="./assets/hyper-smooth-theme.gif" alt="Home" width="850" />
 </p>
 
 #### **More**

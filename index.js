@@ -1,25 +1,25 @@
-const backgroundColor = '#1b1b1b';
-const foregroundColor = '#e6e6e6';
-const borderColor = '#2b2b2b';
-const cursorColor = '#34f9ae';
-const selectionColor = '#6f303a';
+const backgroundColor = '#171717';
+const foregroundColor = '#E6E6E6';
+const borderColor = '#444444';
+const cursorColor = '#34f9AE';
+const selectionColor = '#6F303A';
 const colors = {
   black: '#070707',
-  red: '#ff5555',
-  green: '#34f9ae',
-  yellow: '#faa483',
-  blue: '#faa483',
-  magenta: '#6087ed',
-  cyan: '#faa483',
-  white: '#ffffff',
-  lightBlack: '#d1d1d1',
-  lightRed: '#ff6e67',
-  lightGreen: '#34f9ae',
-  lightYellow: '#34f9ae',
-  lightBlue: '#6087ed',
-  lightMagenta: '#6087ed',
-  lightCyan: '#fb7c7c',
-  lightWhite: '#e6e6e6'
+  red: '#FF5555',
+  green: '#34f9AE',
+  yellow: '#fAA483',
+  blue: '#fAA483',
+  magenta: '#6087ED',
+  cyan: '#fAA483',
+  white: '#FFFFFF',
+  lightBlack: '#909090',
+  lightRed: '#ff6E67',
+  lightGreen: '#34f9AE',
+  lightYellow: '#34f9AE',
+  lightBlue: '#6087ED',
+  lightMagenta: '#6087ED',
+  lightCyan: '#ff6E67',
+  lightWhite: '#E6E6E6'
 };
 
 exports.decorateConfig = config => {

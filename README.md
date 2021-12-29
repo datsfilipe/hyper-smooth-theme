@@ -1,3 +1,7 @@
+<p align="center">
+<img width="100" src="./assets/Smooth-theme-logo.png" alt="Smooth Theme" />
+</p>
+
 <h1 align="center">
 Smooth Theme for Hyper
 </h1>
